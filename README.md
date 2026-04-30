@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuisPatino55
 - 👀 I’m into C# and Unity game development
-- 🌱 I’m currently learning Python...
+- 🌱 Also know Python
 - 💞️ I’m looking to collaborate on games or c# projects
 - 📫 How to reach me erosion10@earthlink.net
 
